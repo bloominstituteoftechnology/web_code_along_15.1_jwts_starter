@@ -1,4 +1,4 @@
-# JWTs
+# Code-Along 15.1 - JWTs
 
 ## Requirements
 
